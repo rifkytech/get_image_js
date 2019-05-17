@@ -1,6 +1,8 @@
 # Get Capture Image From Camera
 Simple Get Obj Data IMG From Camera with php + ajax
 
+NOTE : HARUS BERJALAN DENGAN HTTPS BARU BEKERJA
+
 ### Save Image
 Data gambar akan disimpan di folder 'upload/'
 
